@@ -4,3 +4,6 @@
 [submodule "expm-graph"]
 	path = expm-graph
 	url = https://github.com/lemasyma/expm-graph
+[submodule "agency-jekyll-theme"]
+	path = agency-jekyll-theme
+	url = https://github.com/y7kim/agency-jekyll-theme
