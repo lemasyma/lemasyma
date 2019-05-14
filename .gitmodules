@@ -10,3 +10,6 @@
 [submodule "411W14"]
 	path = 411W14
 	url = https://github.com/Dominique57/411W14
+[submodule "uProject"]
+	path = uProject
+	url = https://github.com/lemasyma/uProject
