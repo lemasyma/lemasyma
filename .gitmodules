@@ -1,0 +1,6 @@
+[submodule "411-MTP"]
+	path = 411-MTP
+	url = https://github.com/lemasyma/411-MTP
+[submodule "expm-graph"]
+	path = expm-graph
+	url = https://github.com/lemasyma/expm-graph
