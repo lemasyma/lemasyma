@@ -1,1 +1,4 @@
 theme: jekyll-theme-dinky
+gem "github-pages", group: :jekyll_plugins
+title: [Telecommunication Software]
+description: [Regroups all the assignments done in Telecommunication RAE 411]
