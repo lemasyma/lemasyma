@@ -13,3 +13,6 @@
 [submodule "uProject"]
 	path = uProject
 	url = https://github.com/lemasyma/uProject
+[submodule "ping"]
+	path = ping
+	url = https://github.com/lemasyma/ping
