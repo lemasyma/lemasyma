@@ -14,6 +14,6 @@ There are three different pages on the website:
 * [list.html](https://lemasyma.github.io/telecommunication/list.html): a simple list of all of my projects done throurought the semester, all projects are accessible on GitHub
 
 ### Credits
-Do no forget to check the [CREDITS.txt](https://github.com/lemasyma/telecommunication/blob/master/CREDITS.txt) file for the image credits. You can also check the [copyright license] (https://github.com/lemasyma/telecommunication/blob/master/LICENSE.txt).
+Do no forget to check the [CREDITS.txt](https://github.com/lemasyma/telecommunication/blob/master/CREDITS.txt) file for the image credits. You can also check the [copyright license](https://github.com/lemasyma/telecommunication/blob/master/LICENSE.txt).
 All credits for the HTML and CSS original template goes to [Hielo by TEMPLATED](https://templated.co/hielo).
 
