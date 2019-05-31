@@ -16,3 +16,6 @@
 [submodule "ping"]
 	path = ping
 	url = https://github.com/lemasyma/ping
+[submodule "411-w16"]
+	path = 411-w16
+	url = git@github.com:lemasyma/411-w16.git
